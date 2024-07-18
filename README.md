@@ -4,7 +4,6 @@
 ### Knowledge and Tools
 [![My Skills](https://skillicons.dev/icons?i=python,docker,postgres,django,fastapi,gcp,postman,pycharm,vscode,github,,&theme=light&perline=10)](https://skillicons.dev)
 
-
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmM2Z2hneWt0eTZ2ZXZxZDE2Z3N2dWxodmhwaTkwazFocm9yMXdyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIGT8Y1rOYhBpdHh1C/giphy.webp" width="40px" height="32" /> My skills:
 
 <table>
@@ -37,5 +36,3 @@
 </table>
 
 ### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> If you have an offer - write to me! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vita-yushchyk-484680205/)
-
-
